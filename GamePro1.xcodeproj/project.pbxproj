@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B1CF2032C6A15F8000DA38A /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9B1CF2022C6A15F8000DA38A /* FireParticles.sks */; };
 		9B81C2E82C662664005D6951 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B81C2E72C662664005D6951 /* AppDelegate.swift */; };
 		9B81C2EA2C662664005D6951 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9B81C2E92C662664005D6951 /* GameScene.sks */; };
 		9B81C2EE2C662664005D6951 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B81C2ED2C662664005D6951 /* GameScene.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B1CF2022C6A15F8000DA38A /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = FireParticles.sks; path = Assets.xcassets/FireParticles.dataset/FireParticles.sks; sourceTree = "<group>"; };
 		9B81C2E42C662664005D6951 /* GamePro1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GamePro1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B81C2E72C662664005D6951 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9B81C2E92C662664005D6951 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				9B81C2F12C662664005D6951 /* Main.storyboard */,
 				9B81C2F42C662665005D6951 /* Assets.xcassets */,
 				9B81C2F62C662665005D6951 /* LaunchScreen.storyboard */,
+				9B1CF2022C6A15F8000DA38A /* FireParticles.sks */,
 			);
 			path = GamePro1;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				9B81C2EA2C662664005D6951 /* GameScene.sks in Resources */,
 				9B81C2F32C662664005D6951 /* Base in Resources */,
+				9B1CF2032C6A15F8000DA38A /* FireParticles.sks in Resources */,
 				9B81C2F52C662665005D6951 /* Assets.xcassets in Resources */,
 				9B81C2F82C662665005D6951 /* Base in Resources */,
 			);
